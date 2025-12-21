@@ -1,49 +1,46 @@
 <div align="center">
 
-# Gabriel Rubiali Gomes
+# 👋 Hi, I'm Gabriel Rubiali
 
-**Computer Science Student · Backend Development (Python)**
-
-Building backend systems with focus on clean architecture, data consistency and scalable APIs.
+**Computer Science Student · Backend Development (Python)**  
+Universidade Anhembi Morumbi
 
 </div>
 
 ---
 
-## About
+<div align="center">
 
-Computer Science undergraduate at **Universidade Anhembi Morumbi**, focused on backend development using Python. Experience ranges from programming fundamentals to API design, data persistence, software architecture and production-oriented practices. Interested in building reliable systems, improving code quality and understanding how software behaves in real-world environments.
+### Languages & Tools
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-## Tech Stack
-
-**Languages**  
-Python · SQL · JavaScript (basic)
-
-**Backend & APIs**  
-FastAPI · Flask · Django · Django REST Framework
-
-**Databases**  
-PostgreSQL · SQLite · MongoDB
-
-**Architecture & Design**  
-MVC · SOLID · Design Patterns · Domain-Driven Design (DDD)
-
-**Quality & Security**  
-Pytest · Unit & Integration Tests · OWASP fundamentals
-
-**DevOps & Infrastructure**  
-Git · GitHub · Docker · GitHub Actions · CI/CD · Kubernetes (fundamentals)
+</div>
 
 ---
 
-## Current Focus
+## About Me
 
-- Backend architecture and system design
-- API scalability and maintainability
-- Software quality, testing and security
-- Preparing systems for production environments
+Computer Science undergraduate focused on **backend engineering with Python**. Experience with RESTful APIs, data persistence, software architecture, testing, and DevOps fundamentals. Interested in building reliable, scalable systems and continuously improving code quality.
+
+---
+
+<div align="center">
+
+### GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubiali&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubiali&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -54,9 +51,12 @@ Universidade Anhembi Morumbi
 
 ---
 
-## Contact
+<div align="center">
 
-- GitHub: https://github.com/rubiali  
-- LinkedIn: [(add link)  ](https://www.linkedin.com/in/gabrielrubialiii/)
-- Email: gabrielrubiali@gmail.com
+### Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
 
