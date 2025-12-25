@@ -29,6 +29,19 @@ Computer Science undergraduate focused on **backend engineering with Python**. E
 
 ---
 
+<div align="center">
+
+### GitHub Stats
+
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubiali&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubiali&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+
 ## Education
 
 **B.Sc. in Computer Science** *(in progress)*  
