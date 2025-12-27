@@ -33,11 +33,12 @@ Computer Science undergraduate focused on **backend engineering with Python**. E
 
 ### GitHub Stats
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubiali&show_icons=true&theme=tokyonight)
+![Gabriel's GitHub stats](https://github-readme-stats-r60h8oeby-gabriel-rubiali-gomes-projects.vercel.app/api?username=rubiali&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubiali&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-r60h8oeby-gabriel-rubiali-gomes-projects.vercel.app/api/top-langs/?username=rubiali&layout=compact&theme=tokyonight)
 
 </div>
+
 
 ---
 
